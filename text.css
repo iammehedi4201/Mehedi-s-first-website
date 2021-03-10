@@ -1,0 +1,52 @@
+
+/*#intro2
+{
+    background-color:red;
+}*/
+
+.intro1
+{
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgreen;
+}
+p.intro1
+{
+    background-color: rgb(196, 103, 27);
+    text-transform: uppercase;
+}
+.hasan
+{
+    background-color: lightslategrey;
+    color: black;
+}
+
+.vlog1
+{
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px 40px;
+   
+    
+    
+}
+.vlog2
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin:30px 40px;
+  
+   
+   
+   
+}
+h1:nth-child(1)
+{
+    font-size: 40px;
+    background-color:red;
+}
+
+
